@@ -1,0 +1,22 @@
+[
+  {"term": "Hypertension", "synonyms": ["High Blood Pressure", "Blood Pressure, High", "Elevated Blood Pressure", "HTN"], "category": "C14.907.489"},
+  {"term": "Angiotensin-Converting Enzyme Inhibitors", "synonyms": ["ACE Inhibitors", "ACEI", "Angiotensin Converting Enzyme Antagonists", "Kinase II Inhibitors"], "category": "D08.811.277.656.300.048"},
+  {"term": "Myocardial Infarction", "synonyms": ["Heart Attack", "MI", "Myocardial Infarct", "Cardiac Infarction", "Coronary Occlusion"], "category": "C14.280.647.500"},
+  {"term": "Diabetes Mellitus", "synonyms": ["DM", "Diabetes", "Type 1 Diabetes", "Type 2 Diabetes", "T1DM", "T2DM"], "category": "C19.246"},
+  {"term": "Stroke", "synonyms": ["Cerebrovascular Accident", "CVA", "Brain Ischemia", "Cerebral Infarction", "Ischemic Stroke", "Hemorrhagic Stroke"], "category": "C10.228.140.300.775"},
+  {"term": "Renal Insufficiency", "synonyms": ["Kidney Failure", "Renal Failure", "Chronic Kidney Disease", "CKD", "End Stage Renal Disease", "ESRD", "Nephropathy"], "category": "C12.777.419.780"},
+  {"term": "Neoplasms", "synonyms": ["Cancer", "Tumor", "Malignancy", "Carcinoma", "Sarcoma", "Malignant Neoplasm"], "category": "C04"},
+  {"term": "COVID-19", "synonyms": ["SARS-CoV-2", "Coronavirus Disease 2019", "2019-nCoV", "Novel Coronavirus", "COVID"], "category": "C01.925.782"},
+  {"term": "Heart Failure", "synonyms": ["Cardiac Failure", "Congestive Heart Failure", "CHF", "Ventricular Dysfunction", "Cardiac Insufficiency"], "category": "C14.280.434"},
+  {"term": "Alzheimer Disease", "synonyms": ["Alzheimer's Disease", "Alzheimer Dementia", "AD", "Senile Dementia", "Alzheimer Type Dementia"], "category": "C10.228.140.380.100"},
+  {"term": "Asthma", "synonyms": ["Bronchial Asthma", "Asthmatic", "Reactive Airway Disease", "Wheezing", "Bronchospasm"], "category": "C08.127.108"},
+  {"term": "Obesity", "synonyms": ["Overweight", "Adiposity", "Morbid Obesity", "Excess Body Weight", "BMI"], "category": "C18.654.726.500"},
+  {"term": "Depression", "synonyms": ["Major Depressive Disorder", "MDD", "Clinical Depression", "Dysthymia", "Depressive Symptoms"], "category": "F03.600.300"},
+  {"term": "Randomized Controlled Trial", "synonyms": ["RCT", "Randomized Clinical Trial", "Controlled Clinical Trial", "Random Allocation", "Double-Blind"], "category": "V03.200"},
+  {"term": "Meta-Analysis", "synonyms": ["Systematic Review", "Meta Analysis", "Pooled Analysis", "Data Synthesis", "Literature Review"], "category": "V03.600"},
+  {"term": "Biomarkers", "synonyms": ["Biological Markers", "Surrogate Markers", "Molecular Markers", "Prognostic Marker", "Diagnostic Marker"], "category": "D23.101"},
+  {"term": "Inflammation", "synonyms": ["Inflammatory Response", "Chronic Inflammation", "Acute Inflammation", "Proinflammatory", "Anti-inflammatory"], "category": "C23.550.470"},
+  {"term": "Apoptosis", "synonyms": ["Programmed Cell Death", "Cell Death", "Apoptotic", "Caspase Activation", "DNA Fragmentation"], "category": "G04.146.160.100"},
+  {"term": "Oxidative Stress", "synonyms": ["Oxidative Damage", "Reactive Oxygen Species", "ROS", "Free Radicals", "Lipid Peroxidation"], "category": "G03.673"},
+  {"term": "Antibodies, Monoclonal", "synonyms": ["Monoclonal Antibodies", "mAb", "Therapeutic Antibodies", "Biologics", "Biological Therapy"], "category": "D12.776.124.486.485.114.224"}
+]
